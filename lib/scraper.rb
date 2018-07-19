@@ -15,10 +15,8 @@ class Scraper
     profiles << {name: name,
       location: location,
       profile_url: profile_url}
-      #binding.pry
   end
   profiles
-  #binding.pry
 end
 
 
